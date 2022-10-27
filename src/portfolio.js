@@ -355,7 +355,6 @@ const contactInfo = {
   number: "+91-8668540424",
   email_address: "singhpriyanshu896@gmail.com"
 };
-
 // Twitter Section
 
 const twitterDetails = {
